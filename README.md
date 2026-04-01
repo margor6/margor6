@@ -12,7 +12,7 @@ I am an analytical problem-solver combining a strong background in mathematics a
 ### 🚀 About Me
 
 * **Education:** IT and Econometrics student at AGH University of Science and Technology in Kraków.
-* **Achievements:** Selected participant of the **"Prymusi AGH"** talent program (focused on financial mathematics and life insurance modeling) and member of the **Econometrics Research Group**.
+* **Achievements:** Selected participant of the **"Prymusi AGH"** talent program (focused on financial and actuarial mathematics) and member of the **Econometrics Research Group**.
 * **What I do:** I build quantitative models, interactive financial dashboards, and machine learning algorithms to analyze market trends and economic indicators.
 * **Currently learning:** Comparing the effectiveness of various ML algorithms for classification and regression problems.
 * **Goal:** Seeking an opportunity to practically apply my analytical and technical knowledge within the financial/banking sector, risk management, or actuarial fields.
@@ -24,6 +24,6 @@ I am an analytical problem-solver combining a strong background in mathematics a
 * **Languages:** Python, R, SQL, C#
 * **Data Science & ML:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn
 * **Reporting & Dashboards:** R Shiny, RMarkdown, MS Excel (Advanced), MS PowerPoint 
-* **Quantitative Methods:** Statistical Inference, Machine Learning basics
+* **Quantitative Methods:** Statistics, Machine Learning basics
 * **Project Management**: Agile/Scrum Methodologies
 ---
