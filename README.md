@@ -6,7 +6,7 @@ I am an analytical problem-solver combining a strong background in mathematics a
 
 [![www.linkedin.com/in/marcin-górski-3032b7376](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marcin-górski-3032b7376) 
 [![marcin.gorski1228@gmail.com](https://img.shields.io/badge/Email-Contact_Me-success?style=flat&logo=minutemailer)](mailto:marcin.gorski1228@gmail.com)
-
+[![IBM Data Analyst](https://img.shields.io/badge/Certified-IBM_Data_Analyst-052FAD?style=flat&logo=ibm)](https://coursera.org/share/9e013135b50ec3ad6799683f8be3e248)
 ---
 
 ### 🚀 About Me
