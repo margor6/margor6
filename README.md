@@ -4,7 +4,7 @@
 
 I am an analytical problem-solver combining a strong background in mathematics and statistics with practical programming skills. My repositories mainly focus on financial data analysis, statistical inference, risk management, and macroeconomic modeling.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://margor6.github.io/)
+[![https://margor6.github.io/](https://img.shields.io/badge/Portfolio-Website-purple?style=flat&logo=chrome)](https://margor6.github.io/) 
 [![www.linkedin.com/in/marcin-górski-3032b7376](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marcin-górski-3032b7376) 
 [![marcin.gorski1228@gmail.com](https://img.shields.io/badge/Email-Contact_Me-success?style=flat&logo=minutemailer)](mailto:marcin.gorski1228@gmail.com)
 [![IBM Data Analyst](https://img.shields.io/badge/Certified-IBM_Data_Analyst-052FAD?style=flat&logo=ibm)](https://coursera.org/share/9e013135b50ec3ad6799683f8be3e248)
