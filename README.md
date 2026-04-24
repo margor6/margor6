@@ -2,7 +2,7 @@
 
 **IT & Econometrics Student @ AGH University | Quantitative Finance & Data Science Enthusiast**
 
-I am an analytical problem-solver combining a strong background in mathematics and statistics with practical programming skills. My repositories mainly focus on financial data analysis, statistical inference, risk management, and macroeconomic modeling.
+I am an analytical problem-solver combining a strong background in mathematics and statistics with practical programming skills. My repositories mainly focus on financial data analysis, statistical inference, risk management.
 
 [![https://margor6.github.io/](https://img.shields.io/badge/Portfolio-Website-purple?style=flat&logo=chrome)](https://margor6.github.io/) 
 [![www.linkedin.com/in/marcin-górski-3032b7376](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marcin-górski-3032b7376) 
@@ -25,7 +25,7 @@ I am an analytical problem-solver combining a strong background in mathematics a
 
 * **Languages:** Python, R, SQL, C#
 * **Data Science & ML:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn
-* **Reporting & Dashboards:** R Shiny, RMarkdown, MS Excel (Advanced), MS PowerPoint 
-* **Quantitative Methods:** Statistics, Machine Learning basics
+* **Reporting & Dashboards:** R Shiny, RMarkdown, MS Excel, MS PowerPoint 
+* **Quantitative Methods:** Statistics, Econometrics, Machine Learning basics
 * **Project Management**: Agile/Scrum Methodologies
 ---
