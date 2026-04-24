@@ -1,6 +1,6 @@
 # Hi, I'm Marcin 👋
 
-**IT & Econometrics Student @ AGH University | Quantitative Finance & Data Science Enthusiast**
+**IT & Econometrics Student @ AGH University | Quantitative Finance & Risk Modeling Enthusiast**
 
 I am an analytical problem-solver combining a strong background in mathematics and statistics with practical programming skills. My repositories mainly focus on financial data analysis, statistical inference, risk management.
 
