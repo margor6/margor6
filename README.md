@@ -10,7 +10,7 @@ I am an analytical problem-solver combining a strong background in mathematics a
 [![IBM Data Analyst](https://img.shields.io/badge/Certified-IBM_Data_Analyst-052FAD?style=flat&logo=ibm)](https://coursera.org/share/9e013135b50ec3ad6799683f8be3e248)
 ---
 
-### 🚀 About Me
+### About Me
 
 * **Education:** IT and Econometrics student at AGH University of Science and Technology in Kraków.
 * **Certifications:** **IBM Data Analyst Professional Certificate** (11-course specialization).
@@ -21,7 +21,7 @@ I am an analytical problem-solver combining a strong background in mathematics a
 
 ---
 
-### 💻 Skills & Tools
+### Skills & Tools
 
 * **Languages:** Python, R, SQL, C#
 * **Data Science & ML:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn
