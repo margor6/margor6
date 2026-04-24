@@ -26,6 +26,6 @@ I am an analytical problem-solver combining a strong background in mathematics a
 * **Languages:** Python, R, SQL, C#
 * **Data Science & ML:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn
 * **Reporting & Dashboards:** R Shiny, RMarkdown, MS Excel, MS PowerPoint 
-* **Quantitative Methods:** Statistics, Econometrics, Machine Learning basics
+* **Quantitative Methods:** Statistics (incl. non-parametrical and resampling methods), Econometrics, Machine Learning basics
 * **Project Management**: Agile/Scrum Methodologies
 ---
