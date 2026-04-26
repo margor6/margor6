@@ -1,6 +1,7 @@
 # Hi, I'm Marcin 👋
 
-**IT & Econometrics Student @ AGH University | Quantitative Finance & Risk Modeling Enthusiast**
+**"All models are wrong, but some are useful"**  
+IT & Econometrics Student @ AGH University | Quantitative Finance & Risk Modeling Enthusiast
 
 I am an analytical problem-solver combining a strong background in mathematics and statistics with practical programming skills. My repositories mainly focus on financial data analysis, statistical inference, risk management.
 
@@ -12,7 +13,7 @@ I am an analytical problem-solver combining a strong background in mathematics a
 
 ### About Me
 
-* **Education:** IT and Econometrics student at AGH University of Science and Technology in Kraków.
+* **Education:** IT and Econometrics student at AGH University of Krakow.
 * **Certifications:** **IBM Data Analyst Professional Certificate** (11-course specialization).
 * **Achievements:** Selected participant of the **"Prymusi AGH"** talent program (focused on financial and actuarial mathematics) and member of the **Econometrics Research Group**. 
 * **What I do:** I build quantitative models, interactive financial dashboards, and machine learning algorithms to analyze market trends and economic indicators.
